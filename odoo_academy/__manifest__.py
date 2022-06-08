@@ -3,6 +3,8 @@
 {
     'name': 'Odoo Academy',
     
+    'License' = 'LGPL-3',
+    
     'summary': """Academy app to manage Training""",
     
     'description' : """
